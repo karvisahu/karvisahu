@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karvisahu
+- 👋 Hi, I’m @karvikiran
 - 👀 I’m interested in graphic design and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
